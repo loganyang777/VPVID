@@ -52,7 +52,7 @@ python enhancement.py --test_dir <noisy_data_dir> \
                      --N=10
 ```
 
-#### 2. VPVID-SDEC (SDE with Corrector)
+#### 2. VPVID-SDE-PC (SDE with Corrector)
 ```bash
 python enhancement.py --test_dir <noisy_data_dir> \
                      --enhanced_dir <output_dir> \
