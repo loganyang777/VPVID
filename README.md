@@ -5,7 +5,7 @@
 VPVID (Variance-Preserving Velocity-guided Interpolant Diffusion) is a novel framework for speech enhancement and dereverberation that achieves competitive enhancement performance while maintaining high computational efficiency. 
 
 This repository contains the official implementation of the paper:
-**"VPVID: Variance-Preserving Velocity-Guided Interpolant Diffusion for Speech Enhancement and Dereverberation"**, published in *IEEE*.
+**"VPVID: Variance-Preserving Velocity-Guided Interpolant Diffusion for Speech Enhancement and Dereverberation"**, published in *IEEE-TASLP*.
 
 🔗 **[Read the Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11190035)**
 
